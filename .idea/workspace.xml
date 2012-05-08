@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99942ada-f374-4bcc-8162-cfc513b63609" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/cakephpstorm.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Config/database.php.default" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Config/email.php.default" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Console/Command/Task/empty" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Console/Templates/empty" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Console/cake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Controller/Component/empty" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Lib/empty" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Locale/eng/LC_MESSAGES/empty" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Model/Behavior/empty" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Model/Datasource/empty" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Plugin/empty" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Test/Case/Controller/Component/empty" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Test/Case/Model/Behavior/empty" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Test/Case/View/Helper/empty" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Test/Fixture/empty" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Vendor/empty" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/View/Elements/empty" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/View/Scaffolds/empty" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/webroot/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/webroot/files/empty" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/webroot/img/cake.icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/webroot/img/cake.power.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/webroot/img/test-error-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/webroot/img/test-fail-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/webroot/img/test-pass-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/webroot/img/test-skip-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/webroot/js/empty" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Ruud.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/webResources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CAKEPHP_README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Config/Schema/db_acl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Config/Schema/db_acl.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Config/Schema/i18n.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Config/Schema/i18n.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Config/Schema/schema.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Config/Schema/sessions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Config/Schema/sessions.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Config/acl.ini.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Config/acl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Config/bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Config/core.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Config/database.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Config/routes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Console/Command/AppShell.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Console/cake.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Console/cake.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Controller/AppController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Controller/PagesController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Model/AppModel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Model/Page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Test/Case/Controller/PagesControllerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Test/Case/Model/PageTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Test/Fixture/PageFixture.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/View/Emails/html/default.ctp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/View/Emails/text/default.ctp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/View/Errors/error400.ctp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/View/Errors/error500.ctp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/View/Helper/AppHelper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/View/Layouts/Emails/html/default.ctp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/View/Layouts/Emails/text/default.ctp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/View/Layouts/ajax.ctp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/View/Layouts/default.ctp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/View/Layouts/flash.ctp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/View/Layouts/js/default.ctp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/View/Layouts/rss/default.ctp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/View/Layouts/xml/default.ctp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/View/Pages/add.ctp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/View/Pages/edit.ctp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/View/Pages/index.ctp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/View/Pages/view.ctp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/webroot/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/webroot/css/cake.generic.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/webroot/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/webroot/test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Cache/Cache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Cache/CacheEngine.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Cache/Engine/ApcEngine.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Cache/Engine/FileEngine.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Cache/Engine/MemcacheEngine.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Cache/Engine/WincacheEngine.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Cache/Engine/XcacheEngine.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Config/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Config/routes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Config/unicode/casefolding/0080_00ff.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Config/unicode/casefolding/0100_017f.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Config/unicode/casefolding/0180_024F.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Config/unicode/casefolding/0250_02af.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Config/unicode/casefolding/0370_03ff.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Config/unicode/casefolding/0400_04ff.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Config/unicode/casefolding/0500_052f.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Config/unicode/casefolding/0530_058f.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Config/unicode/casefolding/1e00_1eff.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Config/unicode/casefolding/1f00_1fff.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Config/unicode/casefolding/2100_214f.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Config/unicode/casefolding/2150_218f.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Config/unicode/casefolding/2460_24ff.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Config/unicode/casefolding/2c00_2c5f.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Config/unicode/casefolding/2c60_2c7f.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Config/unicode/casefolding/2c80_2cff.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Config/unicode/casefolding/ff00_ffef.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Configure/ConfigReaderInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Configure/IniReader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Configure/PhpReader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Controller/CakeErrorController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Controller/Component.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Controller/ComponentCollection.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Controller/Component/AclComponent.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Controller/Component/Acl/AclInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Controller/Component/Acl/DbAcl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Controller/Component/Acl/IniAcl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Controller/Component/Acl/PhpAcl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Controller/Component/AuthComponent.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Controller/Component/Auth/ActionsAuthorize.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Controller/Component/Auth/BaseAuthenticate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Controller/Component/Auth/BaseAuthorize.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Controller/Component/Auth/BasicAuthenticate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Controller/Component/Auth/ControllerAuthorize.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Controller/Component/Auth/CrudAuthorize.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Controller/Component/Auth/DigestAuthenticate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Controller/Component/Auth/FormAuthenticate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Controller/Component/CookieComponent.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Controller/Component/EmailComponent.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Controller/Component/PaginatorComponent.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Controller/Component/RequestHandlerComponent.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Controller/Component/SecurityComponent.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Controller/Component/SessionComponent.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Controller/Controller.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Controller/Scaffold.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Core/App.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Core/CakePlugin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Core/Configure.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Core/Object.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Error/ErrorHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Error/ExceptionRenderer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Error/exceptions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Event/CakeEvent.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Event/CakeEventListener.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Event/CakeEventManager.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/I18n/I18n.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/I18n/L10n.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/I18n/Multibyte.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Log/CakeLog.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Log/CakeLogInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Log/Engine/FileLog.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Model/AclNode.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Model/Aco.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Model/AcoAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Model/Aro.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Model/BehaviorCollection.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Model/Behavior/AclBehavior.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Model/Behavior/ContainableBehavior.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Model/Behavior/TranslateBehavior.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Model/Behavior/TreeBehavior.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Model/CakeSchema.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Model/ConnectionManager.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Model/Datasource/CakeSession.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Model/Datasource/DataSource.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Model/Datasource/Database/Mysql.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Model/Datasource/Database/Postgres.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Model/Datasource/Database/Sqlite.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Model/Datasource/Database/Sqlserver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Model/Datasource/DboSource.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Model/Datasource/Session/CacheSession.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Model/Datasource/Session/CakeSessionHandlerInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Model/Datasource/Session/DatabaseSession.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Model/I18nModel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Model/Model.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Model/ModelBehavior.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Model/Permission.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Network/CakeRequest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Network/CakeResponse.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Network/CakeSocket.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Network/Email/AbstractTransport.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Network/Email/CakeEmail.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Network/Email/DebugTransport.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Network/Email/MailTransport.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Network/Email/SmtpTransport.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Network/Http/BasicAuthentication.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Network/Http/DigestAuthentication.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Network/Http/HttpResponse.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Network/Http/HttpSocket.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Routing/Dispatcher.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Routing/Route/CakeRoute.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Routing/Route/PluginShortRoute.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Routing/Route/RedirectRoute.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Routing/Router.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/TestSuite/CakeTestCase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/TestSuite/CakeTestLoader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/TestSuite/CakeTestRunner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/TestSuite/CakeTestSuite.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/TestSuite/CakeTestSuiteCommand.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/TestSuite/CakeTestSuiteDispatcher.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/TestSuite/ControllerTestCase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/TestSuite/Coverage/BaseCoverageReport.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/TestSuite/Coverage/HtmlCoverageReport.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/TestSuite/Coverage/TextCoverageReport.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/TestSuite/Fixture/CakeFixtureManager.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/TestSuite/Fixture/CakeTestFixture.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/TestSuite/Fixture/CakeTestModel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/TestSuite/Reporter/CakeBaseReporter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/TestSuite/Reporter/CakeHtmlReporter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/TestSuite/Reporter/CakeTextReporter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/TestSuite/templates/footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/TestSuite/templates/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/TestSuite/templates/menu.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/TestSuite/templates/missing_connection.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/TestSuite/templates/phpunit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/TestSuite/templates/xdebug.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Utility/CakeNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Utility/CakeTime.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Utility/ClassRegistry.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Utility/Debugger.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Utility/File.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Utility/Folder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Utility/Inflector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Utility/ObjectCollection.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Utility/Sanitize.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Utility/Security.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Utility/Set.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Utility/String.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Utility/Validation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/Utility/Xml.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/VERSION.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/View/Elements/exception_stack_trace.ctp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/View/Elements/sql_dump.ctp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/View/Errors/missing_action.ctp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/View/Errors/missing_behavior.ctp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/View/Errors/missing_component.ctp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/View/Errors/missing_connection.ctp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/View/Errors/missing_controller.ctp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/View/Errors/missing_database.ctp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/View/Errors/missing_datasource.ctp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/View/Errors/missing_datasource_config.ctp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/View/Errors/missing_helper.ctp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/View/Errors/missing_layout.ctp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/View/Errors/missing_plugin.ctp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/View/Errors/missing_table.ctp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/View/Errors/missing_view.ctp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/View/Errors/pdo_error.ctp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/View/Errors/private_action.ctp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/View/Errors/scaffold_error.ctp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/View/Helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/View/HelperCollection.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/View/Helper/CacheHelper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/View/Helper/FormHelper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/View/Helper/HtmlHelper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/View/Helper/JqueryEngineHelper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/View/Helper/JsBaseEngineHelper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/View/Helper/JsHelper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/View/Helper/MootoolsEngineHelper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/View/Helper/NumberHelper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/View/Helper/PaginatorHelper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/View/Helper/PrototypeEngineHelper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/View/Helper/RssHelper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/View/Helper/SessionHelper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/View/Helper/TextHelper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/View/Helper/TimeHelper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/View/JsonView.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/View/MediaView.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/View/ScaffoldView.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/View/Scaffolds/form.ctp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/View/Scaffolds/index.ctp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/View/Scaffolds/view.ctp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/View/ThemeView.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/View/View.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/View/ViewBlock.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/View/XmlView.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/basics.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readme.md" />
+    </list>
+    <ignored path="cakephpstorm.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="cakephpstorm" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="default.ctp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/View/Layouts/default.ctp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="34" selection-start="255" selection-end="255" vertical-scroll-proportion="-9.153846">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Controller/AppController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppModel.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Model/AppModel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="34" column="0" selection-start="961" selection-end="961" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readme.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readme.md">
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="33" column="28" selection-start="1641" selection-end="1641" vertical-scroll-proportion="0.63924795">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppHelper.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/View/Helper/AppHelper.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="28" selection-start="964" selection-end="964" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Helper.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/Cake/View/Helper.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="6" selection-start="752" selection-end="752" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HtmlHelper.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/Cake/View/Helper/HtmlHelper.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="30" column="28" selection-start="1017" selection-end="1017" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PagesController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Controller/PagesController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="44" column="41" selection-start="818" selection-end="818" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="view.ctp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/View/Pages/view.ctp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="12" selection-start="163" selection-end="163" vertical-scroll-proportion="-4.576923">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.ctp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/View/Pages/index.ctp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="64" selection-start="515" selection-end="515" vertical-scroll-proportion="-9.807693">
+              <folding>
+                <element signature="e#6#53#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/app/Config/core.php" />
+        <option value="$PROJECT_DIR$/app/Config/database.php" />
+        <option value="$PROJECT_DIR$/app/Config/routes.php" />
+        <option value="$PROJECT_DIR$/app/Model/Page.php" />
+        <option value="$PROJECT_DIR$/app/Controller/PagesController.php" />
+        <option value="$PROJECT_DIR$/app/View/Layouts/default.ctp" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/app/View/Pages/view.ctp" />
+        <option value="$PROJECT_DIR$/app/View/Pages/index.ctp" />
+        <option value="$PROJECT_DIR$/app/View/Pages/edit.ctp" />
+        <option value="$PROJECT_DIR$/app/View/Pages/add.ctp" />
+        <option value="$PROJECT_DIR$/readme.md" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cakephpstorm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cakephpstorm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cakephpstorm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cakephpstorm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cakephpstorm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cakephpstorm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cakephpstorm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Cake" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cakephpstorm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cakephpstorm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Cake" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="View" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cakephpstorm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cakephpstorm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Cake" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="View" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Helper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cakephpstorm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cakephpstorm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cakephpstorm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cakephpstorm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="View" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cakephpstorm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cakephpstorm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="View" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cakephpstorm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cakephpstorm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="View" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Helper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cakephpstorm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cakephpstorm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="preferences.fileTypes" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\cakephpstorm\app\Config" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method>
+        <option name="PhingTarget" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method>
+        <option name="PhingTarget" enabled="false" />
+      </method>
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <configuration useDefault="true">C:\Users\Ruud\AppData\Roaming\Subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99942ada-f374-4bcc-8162-cfc513b63609" name="Default" comment="" />
+      <created>1336494616702</created>
+      <updated>1336494616702</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Regex Tester" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25320512" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="ENABLE_BACKGROUND_PROCESSES" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="CREATE_PATCH_EXPAND_DETAILS_DEFAULT" value="true" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/Config/Schema/schema.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Cake/View/View.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="29" selection-start="1976" selection-end="1976" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CAKEPHP_README">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="699" selection-end="699" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/View/Pages/edit.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="3" selection-start="9" selection-end="9" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/View/Pages/add.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="18" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="6" selection-start="84" selection-end="84" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/View/Pages/view.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="12" selection-start="163" selection-end="163" vertical-scroll-proportion="-4.576923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/View/Pages/index.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="64" selection-start="515" selection-end="515" vertical-scroll-proportion="-9.807693">
+          <folding>
+            <element signature="e#6#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Controller/PagesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="41" selection-start="818" selection-end="818" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Cake/View/Helper/HtmlHelper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="28" selection-start="1017" selection-end="1017" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Cake/View/Helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="6" selection-start="752" selection-end="752" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/View/Helper/AppHelper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="28" selection-start="964" selection-end="964" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Model/AppModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="0" selection-start="961" selection-end="961" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/View/Layouts/default.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="34" selection-start="255" selection-end="255" vertical-scroll-proportion="-9.153846">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Controller/AppController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="28" selection-start="1641" selection-end="1641" vertical-scroll-proportion="0.63924795">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
